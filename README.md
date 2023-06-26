@@ -1,3 +1,4 @@
+# Tic-tac-toe Machine Learning Algorithm
 ## Summary
 Python program that allows user to play tic tac toe against a machine learning algorithm that reads data from previous games from a spreadsheet. Each game is recorded by assigning an integer code to the final position and writing the outcome to a spreadsheet. The algorithm can also classify non-final positions as winning for x or o after all the possibilities stemming from those positions have been tested. 
 
