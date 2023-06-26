@@ -1,4 +1,5 @@
 # tictactoe_ml
+## Summary
 Python program that allows user to play tic tac toe against a machine learning algorithm that reads data from previous games from a spreadsheet. Each game is recorded by assigning an integer code to the final position and writing the outcome to a spreadsheet. The algorithm can also classify non-final positions as winning for x or o after all the possibilities stemming from those positions have been tested. 
 
 This project addresses the problem of coding a machine learning algorithm to play a game without using any AI packages such as scikitlearn (create an ML algorithm from scratch). It is used to simulate how a human learns the optimal moves for tic tac toe, and can also play reverse tic tac toe (where you lose if you get three in a row) based off the same training data. 
